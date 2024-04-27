@@ -1,16 +1,9 @@
-# app
+# Flutter Bloc Course Selling App
 
-A new Flutter project.
+## UI Design
+following the [@dbestech](https://www.youtube.com/watch?v=fD7JL4Q5-Bk&list=PL3nPgdhXQtHftX_Z_s8RcaZv1lx7UEeZX&ab_channel=dbestech) course
 
-## Getting Started
+![app ui](https://www.dbestech.com/uploads/20230304/7f4381b7ad485891c8e92697e6f490e8.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
